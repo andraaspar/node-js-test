@@ -1,6 +1,6 @@
 {
   "name": "node-js-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "illa": "andraaspar/illa#v2.1"
