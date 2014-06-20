@@ -3,9 +3,9 @@
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-contrib-clean": "^0.5.0",
-    "grunt-contrib-copy": "^0.5.0",
     "grunt-shell": "^0.7.0",
-    "grunt-sas": "https://github.com/andraaspar/grunt-sas/tarball/v1",
-    "grunt-typescript": "^0.3.6"
+    "grunt-typescript": "^0.3.6",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-sas": "^1.0.2"
   }
 }
