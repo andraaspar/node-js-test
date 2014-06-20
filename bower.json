@@ -1,0 +1,8 @@
+{
+  "name": "node-js-test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "illa": "andraaspar/illa#v2.1"
+  }
+}
